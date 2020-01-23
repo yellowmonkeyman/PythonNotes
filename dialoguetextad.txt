@@ -1,0 +1,135 @@
+You awake in your plane seat.
+You're confused but notice two stewardesses several rows in front.
+They appear extremely concerned and distrought.
+What do you do?
+
+1. (Option) Ask the lady next to you about what's happening.
+2. (Option) Ask the stewardesses about it.
+3. (Option) Snoop around
+
+BRANCH ONE
+
+1. (Choice) The lady stammers 'We've b-be-been h-hijacked! I have two kids at home!'
+   She bursts into tears.
+   
+What do you do?
+1.1 (Option) Reassure her.
+
+1.2 (Option) Ignore her 'ramblings.'
+
+
+1.1 (Choice) You smile at the lady and try to impress on her that everything will be fine. 
+    'The staff on flights have to be mindful about security. I'm sure it's nothing.'
+
+    The lady calms down.
+
+    'Sorry about that, my name's Jean.'
+
+    'Everyone on the plane received a really horrid text from an unknown number. 
+     The airline are taking it seriously by the sounds of it.
+     Everyone's worried. I'm definitely worried..'
+
+     She shows you the text..
+
+     'Greetings fellow travellers,
+
+     I have become inreasingly aware recently of the expendable nature of humanity.
+
+     We are cattle - we are hearded and we are milked of our goodness, leaving us hollow shells.
+
+     Now is the time I demonstrate my worth.
+
+     I am in posession of a particularly powerful incendiary device that will be detonated over [MAINLAND AIRPORT - Heathrow LHR]
+     unless I am given [WHAT THEY WANT].
+
+     Yours sincerely,
+
+     A revolutionary.'
+
+What do you do?
+1.1.1 (Option) Use technological hokey-pokey to attempt to trace the phone
+1.1.2 (Option) Ask the lady sitting next to you for more details
+1.1.3 (Option) Demand to speak to the pilots. Harass the stewards.
+
+What do you do?
+1.1.1 (Choice) You use your limited skills to attempt to trace the phone.
+	Unfortunately you do not get far, but you realise a couple of things from the signature of the sent text.
+	It was sent from a sony xperia Z5.
+	The person is clearly educated and can spell.
+	You realise this is important as it must eliminate some people from your thought process.
+
+1.1.2 (Choice) You ask the lady what else she knows about it.
+	She tells you that it all occurred towards the beginning of the flight and she saw several people with their phones out.
+	She points them out -
+	- The well dressed gentleman in seat 16A (looks like a Doctor).
+	- The lady two seats down from him in 16C, she's young and looks like she relies on her looks for her job (extensions, hair and eyelash + painted nails).
+	- The gentleman in the front row (Asian) who appears to be with his family.
+	- Oh and both Stewardesses had their phones out. Probably putting them on silent/airplane mode for the journey ahead.
+
+1.1.3 (Choice) You get up close and personal with both stewardesses who demand you return to your seat. 
+	      You continue to demand answers and the guy who you think is a Doctor marches up to you and injects a syringe of liquid directly into your arm.
+	      You start to feel faint and are directed to sit down in your seat again.
+
+What do you do?
+	1.1.1.1 (Option) Rummage through the bags of the suspects.
+	1.1.1.2 (Option) Mention this information to the stewards and suggest we search people (Doctor 16A, young lady 16C, Asian guy front row for that specific phone).
+	1.1.1.3 (Option) Scare the individuals into "confessing."
+
+1.2 (Choice) You give the lady a look as if to say - 'You're insane!'
+    Following that, you relocate to another seat to get away from the lady.
+
+	   While changing seats, you feel an incredibly heavy blow to the back of your head.
+	   
+	   You lose consciousness and wake up some time later.
+
+	   Your hands and feet are bound and you appear to be in the cargo hold.
+
+What do you do?
+	1.2.1 (Option)
+	1.2.2 (Option)
+	1.2.3 (Option)
+
+BRANCH TWO
+
+2.(Choice) The taller of the stewardesses glares at you and through gritted teeth, she orders you to sit back down.
+	   'And make sure you fasten your seatbelt as well!'
+
+What do you do?
+	2.1 (Option) Do as she says.
+
+	2.2 (Option) Tell her you are with the air force and can help her with the enquiries.
+
+2.1 (Choice) You sit back down in your seat and sigh, you seem to be getting no where.
+
+	     The lady in the seat next to you prods you and looks at you with a panicked expression.
+
+	     Go to choice 1.1()
+
+2.2 (Choice) She brushes you off.
+
+	     Despite knowing she's only following procedure, you are getting fed up.
+
+	     Got to choice3()
+
+
+
+BRANCH THREE
+
+3. (Choice) You decide to find out for yourself what is going on.
+
+	    You surreptitiously search the bags in the same overhead hold as you.
+	    
+	    The fourth bag you attempt search has four padlocks on it and is extremely heavy.
+
+	    You look around and there are several people now staring at you.
+
+	    You hear a loud beeping.
+
+	    Everything else goes quiet around you suddenly.
+
+	    Sound returns like a tidal wave and you feel a momentary searing pain before you are blasted into oblivion.
+
+	    Oops, you died. Shouldn't fiddle with things you don't have expertise in.
+	
+
+
